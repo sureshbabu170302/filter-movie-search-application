@@ -17,5 +17,5 @@ This is a simple web application that allows users to add their favorite movies 
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/your-username/filter-movie-search-application.git
+   git clone https://github.com/sureshbabu170302/filter-movie-search-application.git
    cd filter-movie-search-application
